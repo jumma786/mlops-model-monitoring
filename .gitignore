@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+coverage.xml
+reports/
+data/*.csv
+data/*.parquet
+.env
+*.egg-info/
+.DS_Store
