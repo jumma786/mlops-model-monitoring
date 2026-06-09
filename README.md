@@ -6,7 +6,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-stats-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-> **Part of the MLOps Portfolio Series** — Project 7 of 10  
+> **Part of the [MLOps Portfolio Series](https://github.com/jumma786/mlops-portfolio)** — Project 7 of 10  
 > Monitors the XGBoost champion model (Project 5) for data drift and prediction drift using PSI, KS-test, and Chi-squared tests across 3 production windows.
 
 ---
